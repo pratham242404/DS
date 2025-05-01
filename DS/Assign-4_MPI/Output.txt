@@ -1,0 +1,3 @@
+javac mpisim/*.java
+java -cp . mpisim.RMIServer   // In one terminal
+java -cp . mpisim.RMIClient   // In another terminal

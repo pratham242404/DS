@@ -1,0 +1,3 @@
+javac corba_sim/*.java
+java -cp . corba_sim.CalculatorServer
+java -cp . corba_sim.CalculatorClient

@@ -1,0 +1,9 @@
+javac berkeley/ClockSync.java
+
+java -cp . berkeley.ClockSync
+
+
+
+PS E:\DS> cd Assign-5_berkeley_ClkSyn  
+PS E:\DS\Assign-5_berkeley_ClkSyn> javac ClockSync.java         
+PS E:\DS\Assign-5_berkeley_ClkSyn> java ClockSync
